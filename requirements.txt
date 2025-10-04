@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+matplotlib==3.9.2
+seaborn==0.13.2
+tensorflow==2.16.1
+joblib==1.4.2
+pydantic==2.8.2
+requests==2.32.3
+cvzone
+mediapipe==0.10.14
+opencv-python==4.9.0.80
+xgboost==2.0.3
