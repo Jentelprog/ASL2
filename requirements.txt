@@ -11,3 +11,5 @@ cvzone
 mediapipe==0.10.14
 opencv-python==4.9.0.80
 xgboost==2.0.3
+pyQt5==5.15.9
+PyQtWebEngine==5.15.9
